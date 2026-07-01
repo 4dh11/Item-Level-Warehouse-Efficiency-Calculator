@@ -113,6 +113,16 @@ Calculated output arrays are systematically piped directly back into your target
 
 *Developed at Tekclover as a scalable, enterprise-grade solution for warehouse intelligence and supply chain optimization.*
 
-```
+---
 
-```
+## Author
+
+**Adityaa SS**
+
+Machine Learning Engineer | Data-Driven Systems & Predictive Modeling
+
+GitHub: [https://github.com/4dh11](https://github.com/4dh11)
+
+LinkedIn: [https://www.linkedin.com/in/adityaa-ss-30233b2b3/](https://www.linkedin.com/in/adityaa-ss-30233b2b3/)
+
+---
